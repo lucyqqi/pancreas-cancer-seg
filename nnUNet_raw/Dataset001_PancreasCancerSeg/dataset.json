@@ -10,6 +10,7 @@
   "numTraining": 288,
   "numTest": 72,
   "file_ending": ".nii.gz",
+  "regions_class_order": [],
   "training": [
     {
       "image": "./imagesTr/quiz_0_041_0000.nii.gz",
